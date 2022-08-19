@@ -1,8 +1,6 @@
 ## Hello! 👋
 
-This Github organization is used to group together [AWS CDK](https://aws.amazon.com/cdk/) v2 constructs made by developers at [Alma Media](https://www.almamedia.fi/en/). All constructs under this organization are open sourced with [`Apache-2.0`](https://www.apache.org/licenses/LICENSE-2.0) license. 
+This Github organization is used to group together [AWS CDK](https://aws.amazon.com/cdk/) v2 constructs made by developers at [Alma Media](https://www.almamedia.fi/en/). All constructs under this organization are open sourced with [`Apache-2.0`](https://www.apache.org/licenses/LICENSE-2.0) license and published on [npmjs.com with `@alma-cdk` scope](https://www.npmjs.com/search?q=%40alma-cdk). 
 Some of them are more general purpose and some are more opinionated towards our use cases but feel free to use them as you wish.
-
-CDK constructs from this organization are published on [npmjs.com with `@alma-cdk` scope](https://www.npmjs.com/search?q=%40alma-cdk).
 
 In case you're interested, follow us on Twitter [@almadevelopers](https://twitter.com/AlmaDevelopers/)!
